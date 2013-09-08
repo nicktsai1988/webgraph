@@ -1,4 +1,0 @@
-webgraph
-========
-
-webgraph project
